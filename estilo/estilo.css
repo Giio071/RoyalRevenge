@@ -1,0 +1,28 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    background-image: url("galeria/fondo.jpg");
+    background-size: 600px;
+    background-repeat: repeat;
+    font-size: 1em;
+    line-height: 1.5em;
+
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin: 15px 0;
+    text-align: center;
+    font-weight: 300;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}

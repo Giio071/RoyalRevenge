@@ -1,0 +1,11 @@
+#contenidoPrincipal {
+    background: rgb(246, 241, 240);
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#contenidoPrincipal header, #contenidoPrincipal .contenido {
+    padding: 40px ;
+}
